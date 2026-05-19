@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/takshpatel02">
+  <a href="https://www.linkedin.com/in/taksh-patel20/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
